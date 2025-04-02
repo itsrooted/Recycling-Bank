@@ -1,9 +1,10 @@
-# !! ATENÇÃO !!
+# ⚠️ !! WARNING !! ⚠️
 
-### Qualquer dano ou estrago causado por esses malwares não será de minha responsabilidade, pois foram desenvolvidos apenas para estudos e diversão!
+**Any damage or harm caused by these malwares is not my responsibility, as they were created purely for study and entertainment purposes!**
 
-***
+---
 
-# !! AVISO !!
+# ⚠️ !! NOTICE !! ⚠️
 
-### Alguns malwares podem conter conteúdos pornográficos [+18] e temas sensíveis, como eventos históricos e assuntos relacionados. Além disso, podem incluir luzes e sons irritantes que podem ser prejudiciais.
+**Some malwares may contain pornographic content [+18] and sensitive themes, such as historical events and related topics.  
+Additionally, they may include flashing lights and irritating sounds that could be harmful.**

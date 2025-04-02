@@ -1,6 +1,6 @@
 # ⚠️ !! WARNING !! ⚠️
 
-**Any damage or harm caused by these malwares is not my responsibility, as they were created purely for study and entertainment purposes!**
+**Any damage caused by these malwares is not my responsibility, as they were created purely for study and entertainment purposes!**
 
 ---
 

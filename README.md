@@ -6,5 +6,5 @@
 
 # ⚠️ !! NOTICE !! ⚠️
 
-**Some malwares may contain pornographic content [+18] and sensitive themes, such as historical events and related topics.  
+**Some malwares may rarely contain pornographic content [+18] and sensitive themes, such as historical events and related topics.  
 Additionally, they may include flashing lights and irritating sounds that could be harmful.**

@@ -2,7 +2,7 @@
 
 ### Qualquer dano ou estrago causado por esses malwares não será de minha responsabilidade, pois foram desenvolvidos apenas para estudos e diversão!
 
-#
+***
 
 ## !! AVISO !!
 
